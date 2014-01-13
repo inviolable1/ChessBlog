@@ -13,3 +13,4 @@ Things to include:
 7) Links - to playchess, ICC, other famous chess blogs
 8) Idea - something similar to AngularJS
 9) Enter posts in MySQL? Can you do HTML in there? 
+10) Ajax - Load 5 posts per page, and only load more as user scrolls down (like Facebook)
