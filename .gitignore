@@ -1,0 +1,15 @@
+#Get Git to ignore all this
+#Note: this is all relative to root scope
+
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+vendor/*
+bin/*
+node_modules/*
+build/*
+.c9revisions/*
+tools/*
+
